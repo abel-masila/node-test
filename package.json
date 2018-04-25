@@ -13,5 +13,7 @@
     "expect": "^22.4.3",
     "mocha": "^5.1.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
